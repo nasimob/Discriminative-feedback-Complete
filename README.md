@@ -12,6 +12,7 @@ the simple discriminative feature for (xt, yt, xˆt, yˆt).
 for (xt, yt, xˆt, yˆt). The “most discriminative feature” is calculated as follows: For every simple discriminative feature ϕ for (xt, yt, xˆt, yˆt), calculate the percentage pˆϕ of examples with label yˆt that
 satisfy this feature and the percentage pϕ of examples with label yt that satisfy this feature. Select the
 feature ϕ such that the difference |pˆϕ − pϕ| is the largest.
+
 For the second part of this project, we improved the algorithm 
 There were several ways we tried to improve the algorithm with 
 The first way is Rule choosing mechanism : 
@@ -20,7 +21,8 @@ The first way is Rule choosing mechanism :
 - Most complicated Rule Method
 - Simplest Rule method 
 - Random Rule method
-  The second way is list ordering :
+
+The second way is list ordering :
 - Lazy furthest data
 - shuffle list
  we saw the difference between Rule choosing mechanisms is not that significant but the real difference is in the list ordering between lazy furthest and shuffle
