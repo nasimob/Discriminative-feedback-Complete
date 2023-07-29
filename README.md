@@ -28,8 +28,6 @@ The second way is list ordering :
 
  we saw the difference between Rule choosing mechanisms is not that significant but the real difference is in the list ordering between lazy furthest and shuffle
 According to the various options we have tried the best variation is :
-- Rule choosing mechanism: First rule 
-- List Ordering: Lazy furthest data 
-Combined with the most discriminative teacher
+- Rule choosing mechanism: First rule  and List Ordering: Lazy furthest data Combined with the most discriminative teacher
 
  
