@@ -1,4 +1,5 @@
 # Discriminative-feedback-Complete
+the code is in branch master
 This project is based on the problem of learning with explanations that was first presented in the paper “Learning from
 discriminative feature feedback” which was published at NeurIPS 2018. You can get it here: 
 https://papers.nips.cc/paper/2018/file/36ac8e558ac7690b6f44e2cb5ef93322-Paper.pdf
@@ -30,4 +31,4 @@ The second way is list ordering :
 According to the various options we have tried the best variation is :
 - Rule choosing mechanism: First rule  and List Ordering: Lazy furthest data Combined with the most discriminative teacher
 
- 
+  
