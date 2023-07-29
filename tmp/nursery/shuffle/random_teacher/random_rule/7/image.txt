@@ -1,0 +1,5 @@
+Teacher: random_teacher
+Rule Choosing Mechanism: random_rule
+List Ordering: shuffle
+Max Rule Size: 7
+#Iterations: 100

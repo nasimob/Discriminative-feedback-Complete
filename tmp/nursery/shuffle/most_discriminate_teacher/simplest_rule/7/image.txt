@@ -1,0 +1,5 @@
+Teacher: most_discriminate_teacher
+Rule Choosing Mechanism: simplest_rule
+List Ordering: shuffle
+Max Rule Size: 7
+#Iterations: 100

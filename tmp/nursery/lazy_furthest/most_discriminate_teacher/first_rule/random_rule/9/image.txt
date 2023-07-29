@@ -1,0 +1,5 @@
+Teacher: most_discriminate_teacher
+Rule Choosing Mechanism: random_rule
+List Ordering: lazy_furthest
+Max Rule Size: 9
+#Iterations: 100

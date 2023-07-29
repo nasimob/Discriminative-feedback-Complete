@@ -1,0 +1,5 @@
+Teacher: random_teacher
+Rule Choosing Mechanism: random_rule
+List Ordering: lazy_furthest
+Max Rule Size: 6
+#Iterations: 100
