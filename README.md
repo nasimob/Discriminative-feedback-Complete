@@ -20,7 +20,7 @@ The first way is Rule choosing mechanism :
 - Most complicated Rule Method
 - Simplest Rule method 
 - Random Rule method
-The second way is list ordering :
+  The second way is list ordering :
 - Lazy furthest data
 - shuffle list
  we saw the difference between Rule choosing mechanisms is not that significant but the real difference is in the list ordering between lazy furthest and shuffle
